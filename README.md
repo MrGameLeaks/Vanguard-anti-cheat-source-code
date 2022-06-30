@@ -8,7 +8,7 @@ Official Vanguard Anti-Cheat source code.
 # Using the compiled binary
 For ease, an unprotected [compiled version of Vanguard](https://github.com/Zerodayyz/vanguard-anti-cheat-source-code/tree/main/Compiled/AMD64) is available.
 
-1. Download the [3 files provided](https://github.com/Zerodayyz/vanguard-anti-cheat-source-code/tree/main/Compiled/AMD644).
+1. Download the [3 files provided](https://github.com/Zerodayyz/vanguard-anti-cheat-source-code/tree/main/Compiled/AMD64).
 2. Run the "Install (Run As Admin)" batch file (as admin). 
 3. Admire its greatness.
 4. Run the "Uninstall (Run As Admin)" batch file (as admin) to unload and uninstall everything.
