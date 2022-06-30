@@ -1,3 +1,6 @@
+This source was from the Offical RiotVanguard page.
+
+
 # Vanguard
 Official Vanguard Anti-Cheat source code. 
 
